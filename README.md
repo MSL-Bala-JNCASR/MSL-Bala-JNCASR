@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, we’re **MSL-Bala-JNCASR**
 
-<!--
-**MSL-Bala-JNCASR/MSL-Bala-JNCASR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are the **Molecular Simulation Lab (BalaGroup)** at **CPMU, JNCASR** — working on molecular and materials simulations using advanced computational techniques.
 
-Here are some ideas to get you started:
+🌍 Based in **Bengaluru, India**  
+🔬 Focused on Molecular Dynamics of liquids, materials, biomolecules, and adsorption in porous materials :contentReference[oaicite:1]{index=1}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What We Do
+
+- Molecular Dynamics (MD) simulations
+- Machine-learning potentials
+- Materials modeling across phases
+- High-pressure and glassy materials research
+- Collaborative computational materials science
+
+---
+
+## 🧪 Featured Work
+
+### 🔥 **Glssy-B2O3-Highpressure**
+Machine Learning Potentials for glassy and high-pressure materials simulations — insights into structure and dynamics. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠 Tools & Methods
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![LAMMPS](https://img.shields.io/badge/-LAMMPS-FF6C37)
+![DeepMD](https://img.shields.io/badge/-DeepMD-000000)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![MDAnalysis](https://img.shields.io/badge/-MDAnalysis-3A4F7A)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)
+
+---
+
+## 📊 GitHub Stats
+
+![MSL-Bala-JNCASR’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MSL-Bala-JNCASR&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Us
+
+🔗 Website: https://www.molsimlab.com/ :contentReference[oaicite:3]{index=3}  
+🐦 X (Twitter): [@jncbala](https://x.com/jncbala) :contentReference[oaicite:4]{index=4}  
+🔗 LinkedIn: https://www.linkedin.com/in/balasubramanian-sundaram-6432a2389/ :contentReference[oaicite:5]{index=5}
+
+---
+
+Thanks for visiting! 😊
+
+
