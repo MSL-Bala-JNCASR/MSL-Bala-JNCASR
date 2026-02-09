@@ -19,7 +19,7 @@ We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Ch
 
 ## 🧪 Featured Work
 
-### 🔥 **Glssy-B2O3-Highpressure**
+### 🔥 **Glassy-B2O3-Highpressure**
 Machine Learning Potentials for glassy and high-pressure materials simulations — insights into structure and dynamics. :contentReference[oaicite:2]{index=2}
 
 ---
