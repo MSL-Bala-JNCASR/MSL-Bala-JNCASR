@@ -1,6 +1,6 @@
 # 👋 Hi, we’re **MSL-Bala-JNCASR**
 
-We are the **Molecular Simulation Lab (BalaGroup)** at **CPMU, JNCASR** — working on molecular and materials simulations using advanced computational techniques.
+We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Chemistry and Physics of Materials Unit ( CPMU ), Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)** — working on molecular and materials simulations using advanced computational techniques.
 
 🌍 Based in **Bengaluru, India**  
 🔬 Focused on Molecular Dynamics of liquids, materials, biomolecules, and adsorption in porous materials :contentReference[oaicite:1]{index=1}
