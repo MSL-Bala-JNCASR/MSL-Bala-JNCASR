@@ -3,7 +3,7 @@
 We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Chemistry and Physics of Materials Unit ( CPMU ), Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)** — working on molecular and materials simulations using advanced computational techniques.
 
 🌍 Based in **Bengaluru, India**  
-🔬 Focused on Molecular Dynamics of liquids, materials, biomolecules, and adsorption in porous materials :contentReference[oaicite:1]{index=1}
+🔬 We are devoted to the study of materials, molecular liquids, gas adsorption in porous materials, machine learned potentials, self-assembly, supramolecular polymers and biomolecules. To achieve these aims, we develop software and deploy large-scale academic freeware on High-Performance Computing Platforms to accurately model substances as realistically as possible.
 
 ---
 
@@ -11,7 +11,7 @@ We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Ch
 
 - Molecular Dynamics (MD) simulations
 - Machine-learning potentials
-- Materials modeling across phases
+- Materials modelling across phases
 - High-pressure and glassy materials research
 - Collaborative computational materials science
 
@@ -43,9 +43,9 @@ Machine Learning Potentials for glassy and high-pressure materials simulations �
 
 ## 📫 Connect With Us
 
-🔗 Website: https://www.molsimlab.com/ :contentReference[oaicite:3]{index=3}  
-🐦 X (Twitter): [@jncbala](https://x.com/jncbala) :contentReference[oaicite:4]{index=4}  
-🔗 LinkedIn: https://www.linkedin.com/in/balasubramanian-sundaram-6432a2389/ :contentReference[oaicite:5]{index=5}
+🔗 Website: https://www.molsimlab.com/ 
+🐦 X (Twitter): [@jncbala](https://x.com/jncbala) 
+🔗 LinkedIn: https://www.linkedin.com/in/balasubramanian-sundaram-6432a2389/ 
 
 ---
 
