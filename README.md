@@ -26,7 +26,7 @@ Machine Learning Potentials for glassy and high-pressure materials simulations â
 
 ## ðŸ›  Tools & Methods
 
-![Python]([https://img.shields.io/badge/-Python-3776AB?logo=python](https://www.python.org/))
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![LAMMPS](https://img.shields.io/badge/-LAMMPS-FF6C37)
 ![DeepMD](https://img.shields.io/badge/-DeepMD-000000)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
