@@ -45,7 +45,9 @@ Machine Learning Potentials for glassy and high-pressure materials simulations �
 ## 📫 Connect With Us
 
 🔗 Website: https://www.molsimlab.com/ 
+
 🐦 X (Twitter): [@jncbala](https://x.com/jncbala) 
+
 🔗 LinkedIn: https://www.linkedin.com/in/balasubramanian-sundaram-6432a2389/ 
 
 ---
