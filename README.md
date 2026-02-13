@@ -20,7 +20,7 @@ We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Ch
 ## 🧪 Featured Work
 
 ### 🔥 **Glassy-B2O3-Highpressure**
-Machine Learning Potentials for glassy and high-pressure materials simulations — insights into structure and dynamics. :contentReference[oaicite:2]{index=2}
+Machine Learning Potentials for glassy and high-pressure materials simulations — insights into structure and dynamics.
 
 ---
 
@@ -32,12 +32,14 @@ Machine Learning Potentials for glassy and high-pressure materials simulations �
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
 ![MDAnalysis](https://img.shields.io/badge/-MDAnalysis-3A4F7A)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex)
-
----
-
-## 📊 GitHub Stats
-
-![MSL-Bala-JNCASR’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MSL-Bala-JNCASR&show_icons=true&theme=radical)
+![GROMACS](https://img.shields.io/badge/-GROMACS-1A73E8?logo=gromacs&logoColor=white)
+![PLUMED](https://img.shields.io/badge/-PLUMED-6A1B9A)
+![RASPA](https://img.shields.io/badge/-RASPA-2E7D32)
+![Gaussian](https://img.shields.io/badge/-Gaussian-8B0000)
+![Materials Studio](https://img.shields.io/badge/-Materials%20Studio-003366)
+![VMD](https://img.shields.io/badge/-VMD-FF6F00)
+![LAMMPS](https://img.shields.io/badge/-LAMMPS-0A1A2F)
+![CP2K](https://img.shields.io/badge/-CP2K-3949AB)
 
 ---
 
