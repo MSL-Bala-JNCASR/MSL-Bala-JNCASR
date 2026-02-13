@@ -38,7 +38,6 @@ Machine Learning Potentials for glassy and high-pressure materials simulations â
 ![Gaussian](https://img.shields.io/badge/-Gaussian-8B0000)
 ![Materials Studio](https://img.shields.io/badge/-Materials%20Studio-003366)
 ![VMD](https://img.shields.io/badge/-VMD-FF6F00)
-![LAMMPS](https://img.shields.io/badge/-LAMMPS-0A1A2F)
 ![CP2K](https://img.shields.io/badge/-CP2K-3949AB)
 
 ---
