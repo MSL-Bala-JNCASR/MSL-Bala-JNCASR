@@ -1,4 +1,4 @@
-# 👋 Hi, we’re **MSL-Bala-JNCASR**
+# 👋 Hi, we’re **Molecular Simulation Lab-JNCASR**
 
 We are the **Molecular Simulation Lab (Prof. Balasubramanian Sundaram)** at **Chemistry and Physics of Materials Unit ( CPMU ), Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)** — working on molecular and materials simulations using advanced computational techniques.
 
